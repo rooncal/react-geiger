@@ -13,17 +13,49 @@
   text-align: center;
   background: #1A1B21;
   width: 30%;
-  height: 100%;
+  height: 80%;
   margin: auto;
-  padding: 30px;
+  padding: 0px;
   border-radius: 0px 0px 10px 10px;
  }
 
  .info--image {
   width: 100%;
   height: 100%;
+  border-radius: 10px 10px 0px 0px;
  }
  
+ .info--profession {
+    color: #F3BF99;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+
+ }
+
+ .info--header {
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  
+ }
+
+.info--link {
+  font-family: Inter;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+
 .about--text {
   font-size: 10px;
   font-weight: 400;
